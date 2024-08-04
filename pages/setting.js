@@ -1,6 +1,6 @@
 import Dropdown from '@/components/ Dropdown';
 import { useTheme } from "@/lib/ ThemeContext"
-import styles from '@/styles/Setting.module.css';
+import styles from '@/styles/setting.module.css';
 
 export default function Setting() {
   const { theme, setTheme } = useTheme();
