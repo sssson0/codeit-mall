@@ -1,0 +1,21 @@
+.footer{
+    margin-top: 50px;
+}
+
+.AA {
+    width: 20px;
+    height: 20px;
+    text-indent: -9999px;
+    /* background-image: url("/setting-white.svg");
+    background-size: contain; */
+  }
+.BB{
+    font-size: 15px;
+    text-align: right;
+}
+
+.container{
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between; */
+}
